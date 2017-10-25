@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "dev-null": "^0.1.1",
-    "electron-chromedriver": "~1.7.1",
+    "electron-chromedriver": "joaomoreno/chromedriver#master",
     "request": "^2.81.0",
     "split": "^1.0.0",
     "webdriverio": "^4.8.0"
